@@ -1,0 +1,15 @@
+body{
+    background-color: darkolivegreen;
+    color: aliceblue;
+    font-family: "Bitter", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button{
+    background-color: crimson
+    color(srgb rgb(238, 231, 231) rgb(226, 236, 226) rgb(233, 233, 241));
+    font-family: "Bitter", serif;
+}
